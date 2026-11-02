@@ -1,0 +1,6 @@
+{
+  "name": "오토모티브 커리어 (AutoCareer KR)",
+  "description": "자동차 및 모빌리티 산업 전문 채용 플랫폼. 완성차 OEM, 티어1 부품사, 배터리, SDV 및 자율주행 직무별·지역별 맞춤 채용공고 큐레이션 및 커리어 탐색 서비스.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
